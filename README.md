@@ -24,13 +24,3 @@ These instructions will get you a copy of the project up and running on your loc
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License 
-
-## Acknowledgments
-
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
