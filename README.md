@@ -1,4 +1,4 @@
-# Project Title
+# First homework project
 
 One paragraph of project description goes here.
 
