@@ -20,3 +20,4 @@ The very first homework assignment. completed on 12/15/2021.
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+![image](https://user-images.githubusercontent.com/91674571/146478027-da056170-c912-4ca9-adf4-de106cc6668f.png)
