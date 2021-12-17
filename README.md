@@ -21,4 +21,5 @@ The very first homework assignment. completed on 12/15/2021.
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-![image](https://user-images.githubusercontent.com/91674571/146478065-ccbd3694-fa80-4754-a2be-20feb4621781.png)
+![image](https://user-images.githubusercontent.com/91674571/146478125-df2a11b9-a221-41c4-b3f9-3a31b3290e76.png)
+
