@@ -23,3 +23,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ![image](https://user-images.githubusercontent.com/91674571/146478125-df2a11b9-a221-41c4-b3f9-3a31b3290e76.png)
 
+![first homework](https://user-images.githubusercontent.com/91674571/146479150-985b1e34-e361-4f49-988f-f5e476cb0a1a.gif)
